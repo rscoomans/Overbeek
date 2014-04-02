@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-        // put your code here
+        echo"Hallo daar<br />";
+        echo"Hoe gaat het ermee?"
         ?>
     </body>
 </html>
